@@ -32,6 +32,7 @@ public class GuessFrame extends JFrame {
 
             }
         });
+
         setLayout(new FlowLayout());
         add(number);
         add(button);
